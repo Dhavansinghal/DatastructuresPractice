@@ -11,6 +11,7 @@ class Stack{
             self.container.append(nextData);
             self.top += 1
     
-    
+    def newfunction :
+        pass
 
 }
